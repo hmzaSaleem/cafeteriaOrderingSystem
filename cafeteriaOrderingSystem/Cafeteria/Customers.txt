@@ -1,0 +1,10 @@
+936;Faro;1234
+524;Mary;123
+761;Dawn;dddd
+266;Alex;qwerty
+974;Hamza;Saleem
+501;Ash;ash123
+263;Tom;Craig
+563;Jim;Lofa
+336;Harry;Carry
+729;alen;join

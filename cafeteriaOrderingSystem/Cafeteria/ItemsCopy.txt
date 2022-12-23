@@ -1,0 +1,10 @@
+1;Chips;30
+2;Choco;15
+3;Candy;50
+4;Pizza;60
+5;Coke;50
+6;Cookie;5
+7;Burger;80
+8;Juice;20
+9;Shake;30
+10;Water;10

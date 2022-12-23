@@ -1,0 +1,7 @@
+4;Pizza;60;Complete
+1;Chips;30;Complete
+2;Choco;15;Incomplete
+4;Pizza;60;Complete
+3;Candy;50;Complete
+3;Candy;50;Complete
+10;Water;10;Complete
